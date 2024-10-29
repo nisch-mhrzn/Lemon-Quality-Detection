@@ -27,7 +27,7 @@ This project is a web application built with Django to detect and classify the q
 1. **Clone the Repository**
     ```bash
     git clone https://github.com/nisch-mhrzn/Lemon-Quality-Detection.git
-    cd lemon-quality-detection
+    cd Lemon-Quality-Detection
     ```
 
 2. **Create a Virtual Environment**
