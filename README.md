@@ -10,9 +10,9 @@ This project is a web application built with Django to detect and classify the q
 
 ## Technology Stack
 - **Backend**: Django
-- **Frontend**: HTML, CSS, JavaScript (optional: Bootstrap for styling)
+- **Frontend**: HTML, Bootstrap for styling
 - **Machine Learning Model**: Convolutional Neural Network (CNN) trained using TensorFlow/Keras
-- **Database**: SQLite (default, can be switched to PostgreSQL or MySQL for production)
+
 
 ## Project Setup
 
